@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: #FFF981;
+}
+
+body ul {
+    font-size: 20px;
+}
+
+nav img {
+    width: 65px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: #FACB4B;
+    padding: 10px 20px 10px 20px;
+    font-weight: bold;
+    margin: 0px 64px 0px 64px;
+}
+
+header {
+    background-color: #FAE04B;
+    padding: 15px;
+}
+
+.main_title {
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.sub_title {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
